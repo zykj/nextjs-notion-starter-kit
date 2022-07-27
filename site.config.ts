@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Hello World',
   domain: 'https://pchx.notion.site/Hello-World-2911dbdd9db84aea9ae94564c94b8021',
-  author: 'PCX',
+  author: 'jointd.com',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',

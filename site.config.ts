@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Hello World',
+  name: '卓忆的笔记',
   domain: 'https://pchx.notion.site/Hello-World-2911dbdd9db84aea9ae94564c94b8021',
   author: 'jointd.com',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '愿世界因我们而美好',
 
   // social usernames (optional)
   twitter: 'stevezhang',

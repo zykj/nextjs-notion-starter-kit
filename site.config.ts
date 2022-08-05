@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '卓忆笔记',
+  name: '卓忆的网络日志',
   domain: 'https://pchx.notion.site/Hello-World-2911dbdd9db84aea9ae94564c94b8021',
   author: 'jointd.com',
 

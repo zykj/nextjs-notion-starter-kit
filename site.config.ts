@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Hello-World-2911dbdd9db84aea9ae94564c94b8021',
+  rootNotionPageId: '2911dbdd9db84aea9ae94564c94b8021',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: '恬惔的网络日志',
-  domain: 'https://pchx.notion.site/Hello-World-2911dbdd9db84aea9ae94564c94b8021',
+  domain: 'https://pchx.notion.site/2911dbdd9db84aea9ae94564c94b8021',
   author: 'jointd.com',
 
   // open graph metadata (optional)
-  description: '愿世界因我们而美好',
+  description: '平常心,愿世界因我们而美好',
 
   // social usernames (optional)
   twitter: 'stevezhang',
